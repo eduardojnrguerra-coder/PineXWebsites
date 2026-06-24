@@ -1,20 +1,33 @@
 # Pine X Websites
 
-Pine X Websites is a South African website design and lead-generation service by Eduardo "Eddy" Guerra, based in Kleinmond and serving Hermanus, the Overberg and South Africa.
+Pine X Websites is an affordable South African website design and lead-generation service by Eduardo "Eddy" Guerra, based in Kleinmond and serving Hermanus, the Overberg and South Africa.
+
+## Main offer
+Affordable, high-converting websites for small businesses that need WhatsApp enquiries, calls, quote requests and online sales.
+
+## Starting prices
+- Starter One-Page Website: R2,950
+- Small Business Website: R5,950
+- Lead Website: R8,950
+- Shopify Starter Store: R9,950
+- Monthly Care: from R450 per month
+
+Payment can often be split 50% deposit and 50% before launch.
 
 ## Services
-- Conversion-focused website design
-- Shopify websites
+- Affordable website design
+- Shopify starter stores
 - SEO-ready service pages
 - Local SEO landing pages
-- Lead-generation pages
+- WhatsApp lead-generation pages
 - Automation-ready websites connected to forms, WhatsApp, email and dashboards
 
 ## Contact
-Email: eduardojnrguerra@gmail.com
+Email: eddy@pinexsystems.co.za
 Phone / WhatsApp: +27 63 803 5628
 
 ## Important pages
+- /
 - /services/website-design-south-africa/
 - /services/shopify-websites-south-africa/
 - /services/seo-lead-generation/
