@@ -1,0 +1,26 @@
+# Pine X Websites
+
+Pine X Websites is a South African website design and lead-generation service by Eduardo "Eddy" Guerra, based in Kleinmond and serving Hermanus, the Overberg and South Africa.
+
+## Services
+- Conversion-focused website design
+- Shopify websites
+- SEO-ready service pages
+- Local SEO landing pages
+- Lead-generation pages
+- Automation-ready websites connected to forms, WhatsApp, email and dashboards
+
+## Contact
+Email: eduardojnrguerra@gmail.com
+Phone / WhatsApp: +27 63 803 5628
+
+## Important pages
+- /services/website-design-south-africa/
+- /services/shopify-websites-south-africa/
+- /services/seo-lead-generation/
+- /services/automation-websites/
+- /areas/website-designer-kleinmond/
+- /areas/website-designer-hermanus/
+- /insights/how-much-does-a-website-cost-in-south-africa/
+- /insights/google-ready-website-checklist/
+- /contact/
